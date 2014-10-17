@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fni:home|Door43 (fni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fni|d43-fni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fni/archive/master.zip|d43-fni.zip]]
+
+**Recent Changes**
+{{changes>ns = fni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fni|Ethnologue data]]
+
